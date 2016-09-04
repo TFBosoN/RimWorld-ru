@@ -52,7 +52,7 @@
   <CommandDetonateLabel>Подорвать</CommandDetonateLabel>
   <CommandDetonateDesc>Начать обратный отсчёт.</CommandDetonateDesc>
 
-  <CommandRenameZoneLabel>Сменить название</CommandRenameZoneLabel>
+  <CommandRenameZoneLabel>Изменить название</CommandRenameZoneLabel>
   <CommandRenameZoneDesc>Переименовать зону.</CommandRenameZoneDesc>
 
   <CommandHideZoneLabel>Скрыть</CommandHideZoneLabel>
