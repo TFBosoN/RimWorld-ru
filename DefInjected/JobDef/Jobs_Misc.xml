@@ -3,7 +3,7 @@
 
 	<Goto.reportString>идёт.</Goto.reportString>
 	<GotoSafeTemperature.reportString>ищет комфортную температуру.</GotoSafeTemperature.reportString>
-	<GotoWander.reportString>гуляет.</GotoWander.reportString>
+	<GotoWander.reportString>прогуливается.</GotoWander.reportString>
 	<Wait.reportString>стоит.</Wait.reportString>
 	<WaitDowned.reportString>сражён.</WaitDowned.reportString>
 	<WaitSafeTemperature.reportString>ожидает в комфортной температуре.</WaitSafeTemperature.reportString>
