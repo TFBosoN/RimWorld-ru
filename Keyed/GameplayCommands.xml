@@ -11,7 +11,7 @@
   <CommandDesignateTogglePowerLabel>Вкл./выкл.</CommandDesignateTogglePowerLabel>
   <CommandDesignateTogglePowerDesc>Обозначить для включения или отключения питания. Вскоре поселенец подойдёт и переключит выключатель.</CommandDesignateTogglePowerDesc>
   
-  <CommandTryReconnectLabel>Подключить заново</CommandTryReconnectLabel>
+  <CommandTryReconnectLabel>Переподключить</CommandTryReconnectLabel>
   <CommandTryReconnectDesc>Переподключить устройство к другому источнику энергии в радиусе подключения. Это удобно для отключения от сети без энергии, если рядом есть сеть с энергией.</CommandTryReconnectDesc>
 
   <CommandGatherSpotToggleLabel>Место сбора</CommandGatherSpotToggleLabel>
