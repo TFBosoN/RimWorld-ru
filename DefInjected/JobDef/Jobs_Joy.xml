@@ -2,7 +2,7 @@
 <LanguageData>
 
 		<!-- Медитация -->
-	<Skygaze.reportString>смотрит в небо.</Skygaze.reportString>
+	<Skygaze.reportString>наблюдает за облаками.</Skygaze.reportString>
 	<Meditate.reportString>медитирует.</Meditate.reportString>
 	<Pray.reportString>молится.</Pray.reportString>
 	<GoForWalk.reportString>гуляет.</GoForWalk.reportString>
@@ -13,7 +13,7 @@
 		<!-- Социальная -->
 
 	<SocialRelax.reportString>социально расслабляется.</SocialRelax.reportString>
-	<VisitSickPawn.reportString>ободряет пациента TargetA.</VisitSickPawn.reportString>
+	<VisitSickPawn.reportString>ободряет TargetA.</VisitSickPawn.reportString>
 
 		<!--Взаимодействие с объектами-->
 
