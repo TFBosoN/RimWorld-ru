@@ -23,7 +23,7 @@
 
 	<Make_Apparel_Tuque.label>сделать вязаную шапочку</Make_Apparel_Tuque.label>
 	<Make_Apparel_Tuque.description>Сделать вязаную шапочку.</Make_Apparel_Tuque.description>
-	<Make_Apparel_Tuque.jobString>Делает вязаную шапочку.</Make_Apparel_Tuque.jobString>  
+	<Make_Apparel_Tuque.jobString>Вяжет шапочку.</Make_Apparel_Tuque.jobString>  
 
 	<Make_Apparel_PowerArmorHelmet.label>сделать шлем силовой брони</Make_Apparel_PowerArmorHelmet.label>
 	<Make_Apparel_PowerArmorHelmet.description>Сделать шлем силовой брони.</Make_Apparel_PowerArmorHelmet.description>
@@ -155,7 +155,7 @@
 
 	<Make_Gun_LMG.label>сделать ручной пулемёт</Make_Gun_LMG.label>
 	<Make_Gun_LMG.description>Сделать ручной пулемёт.</Make_Gun_LMG.description>
-	<Make_Gun_LMG.jobString>Делает короткий лук.</Make_Gun_LMG.jobString>  
+	<Make_Gun_LMG.jobString>Делает ручной пулемет.</Make_Gun_LMG.jobString>  
 
 	<Make_Gun_ChargeRifle.label>сделать энерговинтовку</Make_Gun_ChargeRifle.label>
 	<Make_Gun_ChargeRifle.description>Сделать энерговинтовку.</Make_Gun_ChargeRifle.description>
