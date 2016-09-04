@@ -30,7 +30,7 @@
   <DesignatorMineDesc>Обозначить скалы для проведения горных работ.</DesignatorMineDesc>
 
   <DesignatorSmoothFloor>Отшлифовать пол</DesignatorSmoothFloor>
-  <DesignatorSmoothFloorDesc>Обозначить неровную каменную поверхность для шлифовки.</DesignatorSmoothFloorDesc>
+  <DesignatorSmoothFloorDesc>Обозначить каменную поверхность для шлифовки.</DesignatorSmoothFloorDesc>
 
   <DesignatorPlan>Планировка</DesignatorPlan>
   <DesignatorPlanDesc>Разместить обозначения планировки. Они не служат ничему, кроме помощи в планировании ваших дальнейших расширений.</DesignatorPlanDesc>
@@ -48,7 +48,7 @@
   <DesignatorAreaBuildRoofClear>Удалить область крыши</DesignatorAreaBuildRoofClear>
   <DesignatorAreaBuildRoofClearDesc>Удалить область, в которой поселенцы будут строить крыши. Существующие крыши останутся, но другие строиться уже не будут.</DesignatorAreaBuildRoofClearDesc>
 
-  <DesignatorAreaNoRoofExpand>Расширить область без крыши</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpand>Добавить область без крыши</DesignatorAreaNoRoofExpand>
   <DesignatorAreaNoRoofExpandDesc>Обозначить область, в которой не должно быть крыши. Поселенцы уберут любую существующую здесь крышу (кроме толстой горной породы, которая не может быть убрана).</DesignatorAreaNoRoofExpandDesc>
   <DesignatorAreaNoRoofClear>Удалить область без крыши</DesignatorAreaNoRoofClear>
   <DesignatorAreaNoRoofClearDesc>Удалить область без крыши. Поселенцы больше не будут убирать крыши в этом месте.</DesignatorAreaNoRoofClearDesc>
@@ -70,7 +70,7 @@
 
   <DesignatorZoneCreateStorageDumpingDesc>Создать зону для хранения мусора.\nТакже, позволяет расширить уже существующую свалку.</DesignatorZoneCreateStorageDumpingDesc>
 
-  <DesignatorZoneDelete>Удалить зоны</DesignatorZoneDelete>
+  <DesignatorZoneDelete>Удалить зону</DesignatorZoneDelete>
   <DesignatorZoneDeleteDesc>Удаление зон, таких как склад или посадки.</DesignatorZoneDeleteDesc>
 
   <DesignatorClaim>Захватить</DesignatorClaim>
